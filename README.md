@@ -65,9 +65,9 @@ Copiar
 Editar
 # Ejecutar el análisis de ventas por categoría para cada tienda
 ventas_por_categoria(tienda, 1)
-ventas_por_categoria(tienda2, 2)
-ventas_por_categoria(tienda3, 3)
-ventas_por_categoria(tienda4, 4)
+ventas_por_categoria(tienda, 2)
+ventas_por_categoria(tienda, 3)
+ventas_por_categoria(tienda, 4)
 Resultados
 Los resultados del análisis incluyen:
 
